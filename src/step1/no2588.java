@@ -2,6 +2,7 @@ package step1;
 
 import java.util.Scanner;
 
+// 11단계 곱셈
 public class no2588 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

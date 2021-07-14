@@ -2,6 +2,7 @@ package step1;
 
 import java.util.Scanner;
 
+// 5단계 A+B
 public class no1000 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
