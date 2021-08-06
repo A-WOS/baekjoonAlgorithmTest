@@ -11,7 +11,7 @@ public class no2747 {
     }
 
     public static int recur(int n){
-        int[] arr = new int[91];
+        int[] arr = new int[46];
         arr[0] = 0;
         arr[1] = 1;
         arr[2] = 1;
