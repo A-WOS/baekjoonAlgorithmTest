@@ -1,6 +1,5 @@
 package bronze3;
 
-import javax.swing.plaf.IconUIResource;
 import java.util.Scanner;
 
 public class no2506 {
